@@ -1,4 +1,4 @@
-# LinkLite — URL Shortener (.NET + React + MySQL)
+# Lik — URL Shortener (.NET + React + MySQL)
 
 A full-stack URL shortener built with the stack in the supplied architecture table:
 
@@ -19,7 +19,6 @@ A full-stack URL shortener built with the stack in the supplied architecture tab
 - Validate URL input and reject unsafe/non-HTTP(S) schemes.
 - Docker Compose setup for MySQL, API, and frontend.
 
-> This is a learning/demo project. It does not include user accounts, rate limiting, abuse reporting, analytics beyond click counts, or a production-grade anti-abuse system. Add those before exposing it publicly.
 
 ## Architecture
 
