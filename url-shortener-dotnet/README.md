@@ -273,6 +273,3 @@ A successful redirect responds with status `302 Found` and a `Location` header p
 - **Custom alias already exists:** choose a different alias; codes are unique.
 - **MySQL first boot takes time:** Compose health checks delay API startup until MySQL is ready.
 
-## License
-
-Educational starter project. Add a license before redistributing it.
